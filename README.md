@@ -14,7 +14,7 @@ Este repositório contém a base de um projeto SaaS moderno utilizando **Next.js
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/atalhox/nome-do-projeto.git
 cd nome-do-projeto
 npm install
 ```
